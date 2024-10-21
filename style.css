@@ -25,6 +25,7 @@
 
 .progress-bar{
     background: #959595;
+    cursor: pointer;
     width: 600px;
     height: 10px;
     border-radius: 5px;
